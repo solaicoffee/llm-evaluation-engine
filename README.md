@@ -50,3 +50,17 @@ This project reflects practical experience in:
 
 AI systems must be measurable.  
 Reliable systems are built through structured evaluation, reproducibility, and modular architecture.
+## Quick Start
+
+### 1. Clone the repository
+
+git clone https://github.com/solaicoffee/llm-evaluation-engine.git
+cd llm-evaluation-engine
+
+### 2. Run Benchmark Example
+
+python benchmarking/runner.py
+
+Expected output:
+
+Final Evaluation Score: 0.xxx
